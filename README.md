@@ -14,6 +14,6 @@ This repository contains the following Rime dictionaries in Traditional Chinese:
 - _Honkai_ series (including _Honkai: Star Rail_)
 - _Zenless Zone Zero_
 - _Fate_ series
-- _BanG Dream!_ (including all lines from _BanG Dream! It's MyGO!!!!!_ and _Ave Mujica_)
+- _BanG Dream!_ (including _BanG Dream! It's MyGO!!!!!_ and _Ave Mujica_)
 
 If there are any omissions in the entries, pull requests are welcome!
