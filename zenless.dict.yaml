@@ -28,7 +28,6 @@ use_preset_vocabulary: true
 「電磁暴」-壹式	dian ci bao yi shi	1
 「電磁暴」-貳式	dian ci bao er shi	1
 「靈感」小份裝	ling gan xiao fen zhuang	1
-「非常任務」	fei chang ren wu	1
 「魔王」獎章	mo wang jiang zhang	1
 11號	shi yi hao	1
 25馬赫	er shi wu ma he	1
@@ -241,8 +240,8 @@ use_preset_vocabulary: true
 叩響命運之門	kou xiang ming yun zhi men	1
 只想要試用裝	zhi xiang yao shi yong zhuang	1
 只是沉迷拼裝玩具	zhi shi chen mi pin zhuang wan ju	1
-只是錄影店平凡的一天	zhi shi lu xiang dian ping fan de yi tian	1
-只是錄影店平凡的一天	zhi shi lu ying dian ping fan de yi tian	1
+只是錄像店平凡的一天	zhi shi lu xiang dian ping fan de yi tian	1
+只是錄影帶店平凡的一天	zhi shi lu ying dai dian ping fan de yi tian	1
 可可的回信	ke ke de hui xin	1
 可樂罐擁堵事件	ke le guan yong du shi jian	1
 可琳	ke lin	1
@@ -1189,6 +1188,8 @@ use_preset_vocabulary: true
 鉛黃都市	qian huang du shi	1
 鋼鐵的女巫	gang tie de nv wu	1
 鋼鐵肉墊	gang tie rou dian	1
+錄像店	lu xiang dian	1
+錄影帶店	lu ying dai dian	1
 鍛冶高手	duan ye gao shou	1
 鎏金花信	liu jin hua xin	1
 鎧殼	kai ke	1
@@ -1279,6 +1280,7 @@ use_preset_vocabulary: true
 非一日之寒	fei yi ri zhi han	1
 非僱傭關係	fei gu yong guan xi	1
 非典型外向繩匠	fei dian xing wai xiang sheng jiang	1
+非常任務	fei chang ren wu	1
 非常規淘金熱	fei chang gui tao jin re	1
 非常關心	fei chang guan xin	1
 韋德小隊見證者	wei de xiao dui jian zheng zhe	1
