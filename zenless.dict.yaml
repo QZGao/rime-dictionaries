@@ -24,9 +24,11 @@ use_preset_vocabulary: true
 「灰燼」-鈷藍	hui jin gu lan	1
 「煮釜」的回信	zhu fu de hui xin	1
 「貨」從口出	huo cong kou chu	1
+「零」異事件	ling yi shi jian	1
 「電磁暴」-叄式	dian ci bao san shi	1
 「電磁暴」-壹式	dian ci bao yi shi	1
 「電磁暴」-貳式	dian ci bao er shi	1
+「霸主」的歡宴	ba zhu de huan yan	1
 「靈感」小份裝	ling gan xiao fen zhuang	1
 「魔王」獎章	mo wang jiang zhang	1
 11號	shi yi hao	1
@@ -36,18 +38,21 @@ use_preset_vocabulary: true
 7710和他的貓	qi yi qi ling he ta de mao	1
 一份普通的任務記錄	yi fen pu tong de ren wu ji lu	1
 一個能打的都沒有	yi ge neng da de dou mei you	1
+一切的基石	yi qie de ji shi	1
 一力降十會	yi li jiang shi hui	1
 一往直前	yi wang zhi qian	1
 一招了之	yi zhao liao zhi	1
 一次瞌睡都沒打	yi ci ke shui dou mei da	1
 一網打盡	yi wang da jin	1
 一言不發	yi yan bu fa	1
+一起炸光光	yi qi zha guang guang	1
 一隻一隻又一隻	yi zhi yi zhi you yi zhi	1
 一騎絕塵	yi qi jue chen	1
 丁尼	ding ni	1
 三下五除二	san xia wu chu er	1
 三思而後思	san si er hou si	1
 上學威龍…本人	shang xue wei long ben ren	1
+上班補窩回憶錄	shang ban bu wo hui yi lu	1
 上班補鍋回憶錄	shang ban bu guo hui yi lu	1
 下一把	xia yi ba	1
 下次一定	xia ci yi ding	1
@@ -56,8 +61,11 @@ use_preset_vocabulary: true
 下雨不愁	xia yu bu chou	1
 不可撼動	bu ke han dong	1
 不可觸碰	bu ke chu peng	1
+不同尋常的來客	bu tong xun chang de lai ke	1
 不愛海魚愛獎章	bu ai hai yu ai jiang zhang	1
 不慎斬獲過多榮譽	bu shen zhan huo guo duo rong yu	1
+不拼怎麼贏	bu pin zen me ying	1
+不收丁尼的商店	bu shou ding ni de shang dian	1
 不良布	bu liang bu	1
 不設防的線	bu she fang de xian	1
 世界之蛇	shi jie zhi she	1
@@ -86,6 +94,7 @@ use_preset_vocabulary: true
 代理人	dai li ren	1
 代理人信賴	dai li ren xin lai	1
 代理人秘聞	dai li ren mi wen	1
+代行賞金獵人	dai xing shang jin lie ren	1
 以太	yi tai	1
 以太異形	yi tai yi xing	1
 以太的協奏	yi tai de xie zou	1
@@ -115,6 +124,7 @@ use_preset_vocabulary: true
 來場貓鼠遊戲	lai chang mao shu you xi	1
 來者不拒	lai zhe bu ju	1
 來都來了	lai dou lai le	1
+依然炸光光	yi ran zha guang guang	1
 依賴心	yi lai xin	1
 侯小菲	hou xiao fei	1
 侵蝕體	qin shi ti	1
@@ -129,18 +139,21 @@ use_preset_vocabulary: true
 個人形象管理	ge ren xing xiang guan li	1
 倒帶偵探	dao dai zhen tan	1
 倖存者救援	xing cun zhe jiu yuan	1
+倖存者的執著	xing cun zhe de zhi zhuo	1
 停不下來	ting bu xia lai	1
 偷獵者	tou lie zhe	1
 僅獲得1枚齒輪硬幣	jin huo de yi mei chi lun ying bi	1
 價值連城的展示櫃	jia zhi lian cheng de zhan shi gui	1
 儀玄	yi xuan	1
 元素原教旨	yuan su yuan jiao zhi	1
+兄弟的社交	xiong di de she jiao	1
 先行者認證章	xian xing zhe ren zheng zhang	1
 光影刻刀	guang ying ke dao	1
 光映廣場	guang ying guang chang	1
 光滑如新	guang hua ru xin	1
 兔能環	tu neng huan	1
 入睡	ru shui	1
+入職五周年紀念照	ru zhi wu zhou nian ji nian zhao	1
 內部	nei bu	1
 全勤績優	quan qin ji you	1
 全域安泰	quan yu an tai	1
@@ -149,6 +162,7 @@ use_preset_vocabulary: true
 八足並行	ba zu bing xing	1
 公平競爭制度	gong ping jing zheng zhi du	1
 六分街	liu fen jie	1
+六分街「奇案」	liu fen jie qi an	1
 六分街五星店鋪	liu fen jie wu xing dian pu	1
 六分街的影子領主	liu fen jie de ying zi ling zhu	1
 六星好評	liu xing hao ping	1
@@ -159,7 +173,10 @@ use_preset_vocabulary: true
 再來一碗	zai lai yi wan	1
 再好好想想	zai hao hao xiang xiang	1
 再建麗都	zai jian li du	1
+再建麗都！	zai jian li du	1
+再會吧，喵吉！	zai hui ba miao ji	1
 再看一部	zai kan yi bu	1
+再访「邦布黄金城」	zai fang bang bu huang jin cheng	1
 冤家路窄	yuan jia lu zhai	1
 冥寧芙	ming ning fu	1
 冥寧芙·雙子	ming ning fu shuang zi	1
@@ -185,6 +202,7 @@ use_preset_vocabulary: true
 刀鋸無眼	dao ju wu yan	1
 刑偵特勤組	xing zhen te qin zu	1
 列車樞紐	lie che shu niu	1
+初探「邦布黄金城」	chu tan bang bu huang jin cheng	1
 初窺深淵	chu kui shen yuan	1
 初級園藝師	chu ji yuan yi shi	1
 初級探夢者	chu ji tan meng zhe	1
@@ -197,9 +215,11 @@ use_preset_vocabulary: true
 初階防護認證章	chu jie fang hu ren zheng zhang	1
 別惹貓咪	bie re mao mi	1
 別擋住我的陽光	bie dang zhu wo de yang guang	1
+別走散，在夜色中	bie zou san zai ye se zhong	1
 前方…是深淵啊	qian fang shi shen yuan a	1
 前線	qian xian	1
 劉雯	liu wen	1
+力士從無退路！	li shi cong wu tui lu	1
 加密母帶	jia mi mu dai	1
 加班布	jia ban bu	1
 加班戰神	jia ban zhan shen	1
@@ -234,6 +254,8 @@ use_preset_vocabulary: true
 原紗友里	yuan sha you li	1
 原裝晶片	yuan zhuang jing pian	1
 原裝母帶	yuan zhuang mu dai	1
+又到了輕鬆一刻	you dao le qing song yi ke	1
+又遇一「善」	you yu yi shan	1
 及時補充電解質	ji shi bu chong dian jie zhi	1
 叛軍	pan jun	1
 另一顆星星	ling yi ke xing xing	1
@@ -263,6 +285,7 @@ use_preset_vocabulary: true
 吳秋韻	wu qiu yun	1
 吾本如斯	wu ben ru si	1
 周到服務	zhou dao fu wu	1
+呼救聲遠道而來	hu jiu sheng yuan dao er lai	1
 命破	ming po	1
 命運於此收場	ming yun yu ci shou chang	1
 咔嚓仔	ka cha zai	1
@@ -274,6 +297,7 @@ use_preset_vocabulary: true
 哲	zhe	1
 唯快不破	wei kuai bu po	1
 啄木鳥電音	zhuo mu niao dian yin	1
+商業競爭實錄	shang ye jing zheng shi lu	1
 啜泣搖籃	chuo qi yao lan	1
 啟明星	qi ming xing	1
 喜報，有貓了	xi bao you mao le	1
@@ -305,6 +329,7 @@ use_preset_vocabulary: true
 地精	di jing	1
 地頭蛇	di tou she	1
 垂釣圖鑑	chui diao tu jian	1
+垃圾在說話	la ji zai shuo hua	1
 埃琺	ai fa	1
 城募經驗	cheng mu jing yan	1
 城市的年輪	cheng shi de nian lun	1
@@ -318,6 +343,7 @@ use_preset_vocabulary: true
 塑化鍍劑	su hua du ji	1
 塔納托斯	ta na tuo si	1
 塵埃里開花	chen ai li kai hua	1
+塵戰高塔	chen zhan gao ta	1
 增強型強攻組件	zeng qiang xing qiang gong zu jian	1
 增強型擊破組件	zeng qiang xing ji po zu jian	1
 增強型支援組件	zeng qiang xing zhi yuan zu jian	1
@@ -342,12 +368,14 @@ use_preset_vocabulary: true
 大合奏	da he zou	1
 大壟斷家	da long duan jia	1
 大壺	da hu	1
+大姐去哪裡	da jie qu na li	1
 大師賽一號種子	da shi sai yi hao zhong zi	1
 大影評家	da ying ping jia	1
 大月卡	da yue ka	1
 大空洞	da kong dong	1
 大空洞的饋贈	da kong dong de kui zeng	1
 大胃王	da wei wang	1
+大胃王挑戰賽	da wei wang tiao zhan sai	1
 大額存單	da e cun dan	1
 天外來客	tian wai lai ke	1
 天馬速運，沒我不行	tian ma su yun mei wo bu xing	1
@@ -355,6 +383,7 @@ use_preset_vocabulary: true
 太空漫步	tai kong man bu	1
 失衡	shi heng	1
 失衡值	shi heng zhi	1
+失蹤的司機	shi zong de si ji	1
 失蹤邦口	shi zong bang kou	1
 奇德	qi de	1
 奇蹟從不遲到	qi ji cong bu chi dao	1
@@ -365,6 +394,7 @@ use_preset_vocabulary: true
 如在冰箱內	ru zai bing xiang nei	1
 如影相隨	ru ying xiang sui	1
 如約溺於海港	ru yue ni yu hai gang	1
+如願璀爛之日	ru yuan cui lan zhi ri	1
 如願璀璨之日	ru yuan cui can zhi ri	1
 妄想天使	wang xiang tian shi	1
 妮可	ni ke	1
@@ -379,6 +409,9 @@ use_preset_vocabulary: true
 安全距離	an quan ju li	1
 安全駕駛	an quan jia shi	1
 安娜塔莎	an na ta sha	1
+安德魯再次光臨	an de lu zai ci guang lin	1
+安德魯治愈？	an de lu zhi yu	1
+安德鲁的乞求	an de lu de qi qiu	1
 安東	an dong	1
 安東·伊萬諾夫	an dong yi wan nuo fu	1
 安比	an bi	1
@@ -389,26 +422,33 @@ use_preset_vocabulary: true
 定期清剿	ding qi qing jiao	1
 宴寧	yan ning	1
 家人	jia ren	1
+家庭教育	jia ting jiao yu	1
 家庭省電新思路	jia ting sheng dian xin si lu	1
+家庭纠纷	jia ting jiu fen	1
 家政員	jia zheng yuan	1
 家有格鬥高手	jia you ge dou gao shou	1
 寂靜畫廊	ji jing hua lang	1
 寂靜的旅途	ji jing de lv tu	1
 密友同行	mi you tong xing	1
 富可敵國	fu ke di guo	1
+實力派演技	shi li pai yan ji	1
 實在優雅	shi zai you ya	1
 實戰模擬室	shi zhan mo ni shi	1
 實習生事故實錄	shi xi sheng shi gu shi lu	1
 將眼淚與過往一同埋葬 上	jiang yan lei yu guo wang yi tong mai zang shang	1
 將眼淚與過往一同埋葬 下	jiang yan lei yu guo wang yi tong mai zang xia	1
+將眼淚與過往一起埋葬	jiang yan lei yu guo wang yi qi mai zang	1
 專業導覽，隨機應變	zhuan ye dao lan sui ji ying bian	1
 專業挑戰室	zhuan ye tiao zhan shi	1
 專注力	zhuan zhu li	1
 尋寶布	xun bao bu	1
+尋找溫暖的家	xun zhao wen nuan de jia	1
 尋找甦醒之道	xun zhao su xing zhi dao	1
+尋蹤覓跡	xun zong mi ji	1
 對你，僅次於丁尼	dui ni jin ci yu ding ni	1
 對勁了，朋友	dui jin le peng you	1
 對空六課	dui kong liu ke	1
+小個子，大都市	xiao ge zi da du shi	1
 小小邦布手拉手	xiao xiao bang bu shou la shou	1
 小心別薅禿了	xiao xin bie hao tu le	1
 小敢	xiao gan	1
@@ -441,6 +481,7 @@ use_preset_vocabulary: true
 差一點就端盒了	cha yi dian jiu duan he le	1
 已經…習慣了	yi jing xi guan le	1
 巴特勒	ba te le	1
+巴萊魅影	ba lai mei ying	1
 希人	xi ren	1
 帶刺的柵欄	dai ci de zha lan	1
 幫邦邦邦	bang bang bang bang	1
@@ -507,33 +548,43 @@ use_preset_vocabulary: true
 我是艾蓮，在忙，有事留言	wo shi ai lian zai mang you shi liu yan	1
 我是誰	wo shi shui	1
 我治安局有人	wo zhi an ju you ren	1
+我的AI助手不可能那麼爹	wo de ai zhu shou bu ke neng na me die	1
 我的兄弟有點狠	wo de xiong di you dian hen	1
+我的摯友四腳離地	wo de zhi you si jiao li di	1
 我的朋友很多	wo de peng you hen duo	1
 我要這個，還有那個	wo yao zhe ge hai you na ge	1
+戰戰兢兢的來客	zhan zhan jing jing de lai ke	1
+戰爭的後勤	zhan zheng de hou qin	1
+戰爭的藝術：精簡版	zhan zheng de yi shu jing jian ban	1
 戰線肅清	zhan xian su qing	1
 戰線肅清·難度五	zhan xian su qing nan du wu	1
 戰線肅清·難度六	zhan xian su qing nan du liu	1
 戰術大師	zhan shu da shi	1
 戰鬥成就	zhan dou cheng jiu	1
 所向無敵	suo xiang wu di	1
+手與攪拌車維修技術	shou yu jiao ban che wei xiu ji shu	1
 打工是不可能的	da gong shi bu ke neng de	1
 扳機	ban ji	1
 找到感覺了，朋友	zhao dao gan jue le peng you	1
+投以信賴的目光	tou yi xin lai de mu guang	1
 投我以春花	tou wo yi chun hua	1
 投資研發	tou zi yan fa	1
 抗壓大師	kang ya da shi	1
 折枝劍歌	zhe zhi jian ge	1
 拆卸專家	chai xie zhuan jia	1
+拉力委託 舊城鍵區	la li wei tuo jiu cheng jian qu	1
 拉長變形	la chang bian xing	1
 拉麵品鑑師	la mian pin jian shi	1
 拘縛者	ju fu zhe	1
 招架支援	zhao jia zhi yuan	1
 招財布	zhao cai bu	1
 拼裝達人	pin zhuang da ren	1
+拿命驗收	na ming yan shou	1
 持久戰的預備	chi jiu zhan de yu bei	1
 持續向下	chi xu xiang xia	1
 挑剔的顧客	tiao ti de gu ke	1
 挑剔買家	tiao ti mai jia	1
+捉迷藏	zhuo mi cang	1
 捉迷藏·工地	zhuo mi cang gong di	1
 捉迷藏·舊地鐵	zhuo mi cang jiu di tie	1
 捉迷藏·芭萊大廈	zhuo mi cang ba lai da sha	1
@@ -546,18 +597,20 @@ use_preset_vocabulary: true
 探險家的榮耀	tan xian jia de rong yao	1
 掩護我	yan hu wo	1
 提爾鋒	ti er feng	1
-提豐· 挑戰者型	ti feng tiao zhan zhe xing	1
-提豐挑戰者型	ti feng tiao zhan zhe xing	1
+提豐	ti feng	1
+提豐·挑戰者型	ti feng tiao zhan zhe xing	1
 插頭布	cha tou bu	1
 揠苗助長	ya miao zhu zhang	1
 搖擺爵士	yao bai jue shi	1
 搗蛋邦布馬失前蹄	dao dan bang bu ma shi qian ti	1
 摸清門路了，朋友	mo qing men lu le peng you	1
 撲擊布	pu ji bu	1
+撲託神不說話	pu tuo shen bu shuo hua	1
 擊破	ji po	1
 擊破組件	ji po zu jian	1
 據理服人	ju li fu ren	1
 擬真鏖戰試煉	ni zhen ao zhan shi lian	1
+攪拌車安全改裝手冊	jiao ban che an quan gai zhuang shou ce	1
 支援	zhi yuan	1
 支援組件	zhi yuan zu jian	1
 支流的擺渡客	zhi liu de bai du ke	1
@@ -585,6 +638,7 @@ use_preset_vocabulary: true
 旅鳥的歸巢	lv niao de gui chao	1
 旋鑽機-赤軸	xuan zuan ji chi zhou	1
 日笠陽子	ri li yang zi	1
+日遇一「善」	ri yu yi shan	1
 星之見	xing zhi jian	1
 星徽引擎	xing hui yin qing	1
 星徽騎士	xing hui qi shi	1
@@ -597,6 +651,7 @@ use_preset_vocabulary: true
 春日融融	chun ri rong rong	1
 昨日舞台	zuo ri wu tai	1
 是幸運，還是不幸	shi xing yun hai shi bu xing	1
+是秘密哦！	shi mi mi o	1
 時光切片	shi guang qie pian	1
 時流賢者	shi liu xian zhe	1
 時運來臨	shi yun lai lin	1
@@ -610,10 +665,12 @@ use_preset_vocabulary: true
 暴擊率	bao ji lv	1
 曲奇	qu qi	1
 更大，更多，更強	geng da geng duo geng qiang	1
+更班難找貓難做	geng ban nan zhao mao nan zuo	1
 曼德拉	man de la	1
 曾彤	ceng tong	1
 曾經闊過	ceng jing kuo guo	1
 最佳出價	zui jia chu jia	1
+最佳劇本	zui jia ju ben	1
 最好的朋友	zui hao de peng you	1
 最強店長	zui qiang dian zhang	1
 最後一單	zui hou yi dan	1
@@ -623,6 +680,7 @@ use_preset_vocabulary: true
 最熟悉的地方	zui shu xi de di fang	1
 最終之拳	zui zhong zhi quan	1
 最速行進路線	zui su xing jin lu xian	1
+最遙遠的距離	zui yao yuan de ju li	1
 會心一擊	hui xin yi ji	1
 月卡	yue ka	1
 月城柳	yue cheng liu	1
@@ -647,8 +705,10 @@ use_preset_vocabulary: true
 林勇	lin yong	1
 林景	lin jing	1
 果核布	guo he bu	1
+枯敗花圃	ku bai hua pu	1
 枯敗花圃·苗床	ku bai hua pu miao chuang	1
 枯萎之都	ku wei zhi du	1
+枯萎脈晶	ku wei mai jing	1
 枯萎脈晶·天青	ku wei mai jing tian qing	1
 枯萎脈晶·玄黃	ku wei mai jing xuan huang	1
 枯萎脈晶·礬紅	ku wei mai jing fan hong	1
@@ -661,6 +721,7 @@ use_preset_vocabulary: true
 格莉絲	ge li si	1
 格莉絲·霍華德	ge li si huo hua de	1
 格萊特	ge lai te	1
+格萊特臻選	ge lai te zhen xuan	1
 格鬥布	ge dou bu	1
 桶之賢者	tong zhi xian zhe	1
 梁達偉	liang da wei	1
@@ -670,6 +731,7 @@ use_preset_vocabulary: true
 極地重金屬	ji di zhong jin shu	1
 極速制凍	ji su zhi dong	1
 極速漂移	ji su piao yi	1
+極速甩尾	ji su shuai wei	1
 極限出招	ji xian chu zhao	1
 極限掙扎	ji xian zheng zha	1
 極限支援	ji xian zhi yuan	1
@@ -697,14 +759,20 @@ use_preset_vocabulary: true
 比杜蘇拉還親	bi du su la hai qin	1
 比格	bi ge	1
 比格氣缸	bi ge qi gang	1
+毛茸茸的新朋友	mao rong rong de xin peng you	1
+毛茸茸的期待	mao rong rong de qi dai	1
+毛茸茸的誤會	mao rong rong de wu hui	1
+毛茸茸的麻煩	mao rong rong de ma fan	1
 毫無壓力	hao wu ya li	1
 氣壓布	qi ya bu	1
 水野朔	shui ye shuo	1
 永不謝幕	yong bu xie mu	1
 永恆邦布引我下降	yong heng bang bu yin wo xia jiang	1
 決鬥	jue dou	1
+沉思的幽影	chen si de you ying	1
 沐霏	mu fei	1
 沒有什麼能夠阻擋	mei you shen me neng gou zu dang	1
+沒有血緣關係也可以是家人	mei you xue yuan guan xi ye ke yi shi jia ren	1
 沒有衰仔	mei you shuai zai	1
 河豚電音	he tun dian yin	1
 治安官的答案	zhi an guan de da an	1
@@ -716,11 +784,15 @@ use_preset_vocabulary: true
 波可娜	bo ke na	1
 波特山	bo te shan	1
 泰拉斯奎禍車	tai la si kui huo che	1
+洗衣粉還是老牌子好	xi yi fen hai shi lao pai zi hao	1
 洛威爾	luo wei er	1
+洞中蝶	dong zhong die	1
 洞中諜	dong zhong die	1
 活態驅動	huo tai qu dong	1
 派派	pai pai	1
 派派·韋爾	pai pai wei er	1
+测量器	ce liang qi	1
+消失的數字5	xiao shi de shu zi wu	1
 消失的油畫	xiao shi de you hua	1
 消失的電梯	xiao shi de dian ti	1
 淚眼布	lei yan bu	1
@@ -747,6 +819,7 @@ use_preset_vocabulary: true
 港口逸事	gang kou yi shi	1
 滑滑	hua hua	1
 滿級小學生	man ji xiao xue sheng	1
+漆黑的舞鞋	qi hei de wu xie	1
 演武許可	yan wu xu ke	1
 漢斯	han si	1
 漸入佳境	jian ru jia jing	1
@@ -789,6 +862,7 @@ use_preset_vocabulary: true
 牧羊犬	mu yang quan	1
 物理	wu li	1
 牲祭之刃	sheng ji zhi ren	1
+牲鬼	sheng gui	1
 牲鬼·布林格	sheng gui bu lin ge	1
 特別的音樂	te bie de yin yue	1
 特化以太晶片	te hua yi tai jing pian	1
@@ -806,6 +880,7 @@ use_preset_vocabulary: true
 特殊區域	te shu qu yu	1
 犧牲潔純	xi sheng jie chun	1
 犬犬兌換券	quan quan dui huan quan	1
+犯人吹著笛子來	fan ren chui zhe di zi lai	1
 狂亂暴徒	kuang luan bao tu	1
 狂信之塑	kuang xin zhi su	1
 狂熱採購者	kuang re cai gou zhe	1
@@ -860,7 +935,9 @@ use_preset_vocabulary: true
 直到夢魘盡頭	zhi dao meng yan jin tou	1
 直到巷白荒穢之地	zhi dao xiang bai huang hui zhi di	1
 直到您徹底遺忘	zhi dao nin che di yi wang	1
+直到蒼白荒歳之地	zhi dao cang bai huang sui zhi di	1
 直到蒼白荒穢之地	zhi dao cang bai huang hui zhi di	1
+真·玩命驗收	zhen wan ming yan shou	1
 真理的凝視	zhen li de ning shi	1
 真相不止一個	zhen xiang bu zhi yi ge	1
 真相常與孤獨結伴而行	zhen xiang chang yu gu du jie ban er xing	1
@@ -868,6 +945,7 @@ use_preset_vocabulary: true
 眼魔引擎	yan mo yin qing	1
 短小精悍	duan xiao jing han	1
 石見舞菜香	shi jian wu cai xiang	1
+破產邦布	po chan bang bu	1
 破門而入	po men er ru	1
 破陣者認證章	po zhen zhe ren zheng zhang	1
 硫磺石	liu huang shi	1
@@ -894,10 +972,12 @@ use_preset_vocabulary: true
 空洞探索指南	kong dong tan suo zhi nan	1
 空洞漫遊指南	kong dong man you zhi nan	1
 空洞茶會	kong dong cha hui	1
+空洞補習班	kong dong bu xi ban	1
 空洞裡的求婚	kong dong li de qiu hun	1
 空洞速降訓練	kong dong su jiang xun lian	1
 空洞金融大亨	kong dong jin rong da heng	1
 空洞銀行	kong dong yin hang	1
+空洞银行	kong dong yin hang	1
 穿越空洞的夜晚	chuan yue kong dong de ye wan	1
 穿透率	chuan tou lv	1
 突入禁區	tu ru jin qu	1
@@ -934,6 +1014,7 @@ use_preset_vocabulary: true
 絕區零	jue qu ling	1
 絕境逢生	jue jing feng sheng	1
 絕非偶然	jue fei ou ran	1
+給予溫柔的指引	gei yu wen rou de zhi yin	1
 統御者認證章	tong yu zhe ren zheng zhang	1
 經營心得	jing ying xin de	1
 維多利亞家政	wei duo li ya jia zheng	1
@@ -951,6 +1032,11 @@ use_preset_vocabulary: true
 繩網熱議	sheng wang re yi	1
 羅賓	luo bin	1
 美味風暴	mei wei feng bao	1
+群星照亮荒野	qun xing zhao liang huang ye	1
+群星的信賴	qun xing de xin lai	1
+群星的指引	qun xing de zhi yin	1
+群星的接觸	qun xing de jie chu	1
+群星的注視	qun xing de zhu shi	1
 耀嘉音	yao jia yin	1
 老頑童	lao wan tong	1
 老顧客·新生意	lao gu ke xin sheng yi	1
@@ -959,6 +1045,7 @@ use_preset_vocabulary: true
 耍蛇大師，四位	shua she da shi si wei	1
 聚光燈外的人生	ju guang deng wai de ren sheng	1
 聚寶箱	ju bao xiang	1
+職場補窩羅曼史	zhi chang bu wo luo man shi	1
 職場補鍋羅曼史	zhi chang bu guo luo man shi	1
 職業玩家	zhi ye wan jia	1
 聽到旋律了嗎	ting dao xuan lv le ma	1
@@ -968,6 +1055,7 @@ use_preset_vocabulary: true
 脫離噩夢	tuo li e meng	1
 腥風之握	xing feng zhi wo	1
 腹地	fu di	1
+臥底藍調	wo di lan diao	1
 自力更生	zi li geng sheng	1
 自成一派	zi cheng yi pai	1
 自由挖掘	zi you wa jue	1
@@ -977,6 +1065,7 @@ use_preset_vocabulary: true
 致命打擊	zhi ming da ji	1
 與你託付後背	yu ni tuo fu hou bei	1
 與你跌落夢境	yu ni die luo meng jing	1
+與小黑共度時光	yu xiao hei gong du shi guang	1
 與星星的連線	yu xing xing de lian xian	1
 與空洞為敵	yu kong dong wei di	1
 舊城建區	jiu cheng jian qu	1
@@ -1010,6 +1099,7 @@ use_preset_vocabulary: true
 菲林底片	fei lin di pian	1
 萊卡恩	lai ka en	1
 萊特	lai te	1
+萬能的安全帽	wan neng de an quan mao	1
 葉釋淵	ye shi yuan	1
 葛子瑞	ge zi rui	1
 蒙特夫	meng te fu	1
@@ -1021,6 +1111,7 @@ use_preset_vocabulary: true
 蕭翟	xiao di	1
 薇薇安	wei wei an	1
 薩提爾	sa ti er	1
+藝術還是丁尼	yi shu hai shi ding ni	1
 藤井雪代	teng jing xue dai	1
 藤原夏海	teng yuan xia hai	1
 蘋果落下	ping guo luo xia	1
@@ -1033,6 +1124,7 @@ use_preset_vocabulary: true
 蛋糕「特別定製款」	dan gao te bie ding zhi kuan	1
 血月犬牙	xue yue quan ya	1
 行動歷程	xing dong li cheng	1
+街头球王	jie tou qiu wang	1
 街頭巨星	jie tou ju xing	1
 衛士	wei shi	1
 衛非地	wei fei di	1
@@ -1052,6 +1144,7 @@ use_preset_vocabulary: true
 複合式音擎音圈	fu he shi yin qing yin quan	1
 襲擊者	xi ji zhe	1
 見習調查員記錄	jian xi tiao cha yuan ji lu	1
+見證者	jian zheng zhe	1
 見證者·勇者之踵	jian zheng zhe yong zhe zhi zhong	1
 見證者·萬層之巔	jian zheng zhe wan ceng zhi dian	1
 規範飛行	gui fan fei xing	1
@@ -1066,9 +1159,12 @@ use_preset_vocabulary: true
 該洗臉了	gai xi lian le	1
 該減肥了	gai jian fei le	1
 認可	ren ke	1
+誠信經營守則	cheng xin jing ying shou ze	1
+說謊的代價	shuo huang de dai jia	1
 誰是可疑人員	shui shi ke yi ren yuan	1
 誰是衰仔	shui shi shuai zai	1
 誰為牲祭	shui wei sheng ji	1
+誰訓練誰還不一定喔	shui xun lian shui hai bu yi ding o	1
 誰點亮了小夜燈	shui dian liang le xiao ye deng	1
 調律校音器	tiao lv xiao yin qi	1
 調查員培訓課	tiao cha yuan pei xun ke	1
@@ -1078,6 +1174,8 @@ use_preset_vocabulary: true
 請遵守勞動法	qing zun shou lao dong fa	1
 諧振共鳴	xie zhen gong ming	1
 諧振和弦	xie zhen he xian	1
+謎影狩獵	mi ying shou lie	1
+謎語人同好會	mi yu ren tong hao hui	1
 謹慎消費者	jin shen xiao fei zhe	1
 護盾	hu dun	1
 讀讀空氣吧	du du kong qi ba	1
@@ -1098,11 +1196,14 @@ use_preset_vocabulary: true
 資源回收	zi yuan hui shou	1
 賊貓御鼠	zei mao yu shu	1
 賭上性命的戀愛儀式	du shang xing ming de lian ai yi shi	1
+賭上性命的戀愛模式	du shang xing ming de lian ai mo shi	1
 購物狂	gou wu kuang	1
 賽斯	sai si	1
 賽斯·洛威爾	sai si luo wei er	1
+贼貓與鼠	zei mao yu shu	1
 赤紅莫庫斯	chi hong mo ku si	1
 赤鱗	chi lin	1
+赫克托爾的死鬥	he ke tuo er de si dou	1
 超塵逐電	chao chen zhu dian	1
 超大內存條	chao da nei cun tiao	1
 超有人脈的繩匠	chao you ren mai de sheng jiang	1
@@ -1120,6 +1221,7 @@ use_preset_vocabulary: true
 軍用鍍劑	jun yong du ji	1
 輕盈身法	qing ying shen fa	1
 輕裝獵兵	qing zhuang lie bing	1
+輕鬆一刻	qing song yi ke	1
 轟鳴偉力	hong ming wei li	1
 轟鳴座駕	hong ming zuo jia	1
 迅捷正義	xun jie zheng yi	1
@@ -1130,6 +1232,7 @@ use_preset_vocabulary: true
 迷宮的跨越者	mi gong de kua yue zhe	1
 迷蹤的調查團	mi zong de tiao cha tuan	1
 退休生活	tui xiu sheng huo	1
+逆位的高塔	ni wei de gao ta	1
 逍遙遊球	xiao yao you qiu	1
 這才叫專業	zhe cai jiao zhuan ye	1
 這是什麼？我用一下	zhe shi shen me wo yong yi xia	1
@@ -1140,6 +1243,7 @@ use_preset_vocabulary: true
 速效救援	su xiao jiu yuan	1
 速滑鴨	su hua ya	1
 連攜技	lian xie ji	1
+連環失竊案	lian huan shi qie an	1
 連環失竊案·協理	lian huan shi qie an xie li	1
 連環失竊案·真相	lian huan shi qie an zhen xiang	1
 進化頂點	jin hua ding dian	1
@@ -1193,6 +1297,7 @@ use_preset_vocabulary: true
 鍛冶高手	duan ye gao shou	1
 鎏金花信	liu jin hua xin	1
 鎧殼	kai ke	1
+鏖戰試煉	ao zhan shi lian	1
 鏖戰試煉·末路	ao zhan shi lian mo lu	1
 鐵道地精	tie dao di jing	1
 閃擊破陣	shan ji po zhen	1
@@ -1229,6 +1334,7 @@ use_preset_vocabulary: true
 陳陽	chen yang	1
 陳雨	chen yu	1
 際會之時	ji hui zhi shi	1
+隱秘的渴望	yin mi de ke wang	1
 隱藏款指日可待	yin cang kuan zhi ri ke dai	1
 隱藏菜單	yin cang cai dan	1
 集合啦！嗯呢朋友	ji he la en ne peng you	1
@@ -1237,16 +1343,19 @@ use_preset_vocabulary: true
 雜食動物	za shi dong wu	1
 離子體瑟托迪亞	li zi ti se tuo di ya	1
 離子體納塞勒亞	li zi ti na sai le ya	1
+雨夜中的情聖	yu ye zhong de qing sheng	1
 雨林饕客	yu lin tao ke	1
 雨果	yu guo	1
 雪中送火	xue zhong song huo	1
 雲巋如我	yun kui ru wo	1
 雲巋山	yun gui shan	1
 零異事件	ling yi shi jian	1
+零號	ling hao	1
 零號·安比	ling hao an bi	1
 零號密鑰	ling hao mi yao	1
 零號業績	ling hao ye ji	1
 零號空洞	ling hao kong dong	1
+零號空洞：懸絲索引	ling hao kong dong xuan si suo yin	1
 零號銀行	ling hao yin hang	1
 零食	ling shi	1
 雷暴重金屬	lei bao zhong jin shu	1
@@ -1268,6 +1377,7 @@ use_preset_vocabulary: true
 露電幻夢	lu dian huan meng	1
 霸主座上賓	ba zhu zuo shang bin	1
 霸主蛇	ba zhu she	1
+靈感在哪裡	ling gan zai na li	1
 靈感販售處	ling gan fan shou chu	1
 靈異愛好者	ling yi ai hao zhe	1
 靈魂塊	ling hun kuai	1
@@ -1299,6 +1409,7 @@ use_preset_vocabulary: true
 預言之下	yu yan zhi xia	1
 頑強	wan qiang	1
 領主蛇	ling zhu she	1
+頭號粉絲	tou hao fen si	1
 頭號繩匠	tou hao sheng jiang	1
 頭號調查員	tou hao tiao cha yuan	1
 願君多採擷	yuan jun duo cai xie	1
@@ -1314,6 +1425,7 @@ use_preset_vocabulary: true
 飛鳥停落處	fei niao ting luo chu	1
 飛鳥星夢	fei niao xing meng	1
 馬路王者	ma lu wang zhe	1
+馮	feng	1
 馮·萊卡恩	feng lai ka en	1
 騎士布	qi shi bu	1
 驅動盤	qu dong pan	1
@@ -1352,6 +1464,7 @@ use_preset_vocabulary: true
 魔王預備役	mo wang yu bei yi	1
 魔豆	mo dou	1
 鯊牙布	sha ya bu	1
+鳥有屹力的穹隆	niao you yi li de qiong long	1
 鴨不停蹼	ya bu ting pu	1
 鴨雀無聲	ya que wu sheng	1
 麗娜	li na	1
@@ -1368,6 +1481,11 @@ use_preset_vocabulary: true
 黃金狂想	huang jin kuang xiang	1
 黃金邦布	huang jin bang bu	1
 黑吃黑	hei chi hei	1
+黑曜石	hei yao shi	1
+黑曜石：戰略合作	hei yao shi zhan lve he zuo	1
+黑曜石：戰略壓制	hei yao shi zhan lve ya zhi	1
+黑曜石：戰略殲滅	hei yao shi zhan lve jian mie	1
+黑曜石：戰略開拓	hei yao shi zhan lve kai tuo	1
 黑洞胃袋	hei dong wei dai	1
 黑紙童話	hei zhi tong hua	1
 黑色唱機	hei se chang ji	1
