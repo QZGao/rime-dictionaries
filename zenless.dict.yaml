@@ -2,63 +2,156 @@
 # encoding: utf-8
 ---
 name: zenless
-version: "2025-03-30"
+version: "2025-05-26"
 sort: origin
 use_preset_vocabulary: true
 ...
-11號	shi yi hao	1
 「11號」	shi yi hao	1
+「倉鼠籠」訪問器	cang shu long fang wen qi	1
+「彼佛斯」的回信	bi fo si de hui xin	1
+「恆等式」-本格	heng deng shi ben ge	1
+「恆等式」-變格	heng deng shi bian ge	1
+「星間遠足」的回信	xing jian yuan zu de hui xin	1
+「月相」-晦	yue xiang hui	1
+「月相」-朔	yue xiang shuo	1
+「月相」-望	yue xiang wang	1
+「殘響」-Ⅲ型	can xiang san xing	1
+「殘響」-Ⅱ型	can xiang er xing	1
+「殘響」-Ⅰ型	can xiang yi xing	1
+「湍流」-斧型	tuan liu fu xing	1
+「湍流」-矢型	tuan liu shi xing	1
+「湍流」-銃型	tuan liu chong xing	1
+「灰燼」-鈷藍	hui jin gu lan	1
+「煮釜」的回信	zhu fu de hui xin	1
+「電磁暴」-叄式	dian ci bao san shi	1
+「電磁暴」-壹式	dian ci bao yi shi	1
+「電磁暴」-貳式	dian ci bao er shi	1
+「靈感」小份裝	ling gan xiao fen zhuang	1
+「麗都大亨」	li du da heng	1
+11號	shi yi hao	1
+25馬赫	er shi wu ma he	1
+7710和他的貓	qi yi qi ling he ta de mao	1
 丁尼	ding ni	1
+下班神話	xia ban shen hua	1
+不可觸碰	bu ke chu peng	1
+不良布	bu liang bu	1
 五十嵐裕美	wu shi lan yu mei	1
 井上麻里奈	jing shang ma li nai	1
 井口裕香	jing kou yu xiang	1
 亞歷山德麗娜	ya li shan de li na	1
+人氣蘿蔔	ren qi luo bo	1
+人為刀俎	ren wei dao zu	1
 代理人	dai li ren	1
 代理人秘聞	dai li ren mi wen	1
 以太	yi tai	1
 以太異形	yi tai yi xing	1
+以太綺夢	yi tai qi meng	1
+以太鍍劑	yi tai du ji	1
+以太電池	yi tai dian chi	1
+以太電解液	yi tai dian jie ye	1
 以骸	yi hai	1
+仿製星徽引擎	fang zhi xing hui yin qing	1
+企鵝布	qi e bu	1
 伊埃斯	yi ai si	1
 伊芙琳	yi fu lin	1
 伊萬諾夫	yi wan nuo fu	1
 佐藤利奈	zuo teng li nai	1
 侯小菲	hou xiao fei	1
 侵蝕體	qin shi ti	1
+侵襲：次世代	qin xi ci shi dai	1
+信號殘響	xin hao can xiang	1
+信號餘波	xin hao yu bo	1
 修緣	xiu yuan	1
 俱樂部	ju le bu	1
 偷獵者	tou lie zhe	1
+儀玄	yi xuan	1
+先行者認證章	xian xing zhe ren zheng zhang	1
+光影刻刀	guang ying ke dao	1
 光映廣場	guang ying guang chang	1
+兔能環	tu neng huan	1
 六分街	liu fen jie	1
+共鳴布	gong ming bu	1
 冥寧芙	ming ning fu	1
+冰結	bing jie	1
 凱撒	kai sa	1
 凶心瘋漢	xiong xin feng han	1
 刑偵特勤組	xing zhen te qin zu	1
+初鑄勳章	chu zhu xun zhang	1
+初階強攻認證章	chu jie qiang gong ren zheng zhang	1
+初階擊破認證章	chu jie ji po ren zheng zhang	1
+初階支援認證章	chu jie zhi yuan ren zheng zhang	1
+初階異常認證章	chu jie yi chang ren zheng zhang	1
+初階防護認證章	chu jie fang hu ren zheng zhang	1
 劉雯	liu wen	1
+加密母帶	jia mi mu dai	1
+加班布	jia ban bu	1
+加農轉子	jia nong zhuan zi	1
+十萬次心跳	shi wan ci xin tiao	1
 千本木彩花	qian ben mu cai hua	1
+千面日隕	qian mian ri yun	1
 南條愛乃	nan tiao ai nai	1
 卡呂冬之子	ka lv dong zhi zi	1
+卡爾一家	ka er yi jia	1
 危樓夜尋蹤	wei lou ye xun zong	1
+原始朋克	yuan shi peng ke	1
+原始碼：狂如惡雨	yuan shi ma kuang ru e yu	1
+原始碼：驚懼熔爐	yuan shi ma jing ju rong lu	1
 原紗友里	yuan sha you li	1
+原裝晶片	yuan zhuang jing pian	1
+原裝母帶	yuan zhuang mu dai	1
 叛軍	pan jun	1
 只是錄影店平凡的一天	zhi shi lu xiang dian ping fan de yi tian	1
+可可的回信	ke ke de hui xin	1
 可琳	ke lin	1
 可琳·威克斯	ke lin wei ke si	1
 名塚佳織	ming zhong jia zhi	1
 吟遊唱針	yin you chang zhen	1
+含羞惡面	han xiu e mian	1
 吳哲茹	wu zhe ru	1
 吳秋韻	wu qiu yun	1
+吾本如斯	wu ben ru si	1
+命破	ming po	1
+咔嚓仔	ka cha zai	1
+咖啡伴侶	ka fei ban lv	1
 哈提	ha ti	1
 哲	zhe	1
+啄木鳥電音	zhuo mu niao dian yin	1
+啜泣搖籃	chuo qi yao lan	1
+喬普小子的回信	qiao pu xiao zi de hui xin	1
 嗯呢	en ne	1
+嗯呢幣	en ne bi	1
 嗷嗚報刊亭	ao wu bao kan ting	1
+噢~甜心	o tian xin	1
 噬魂犬	shi hun quan	1
 在空洞中心呼喚	zai kong dong zhong xin hu huan	1
 地精	di jing	1
 埃琺	ai fa	1
+城募經驗	cheng mu jing yan	1
+基礎以太晶片	ji chu yi tai jing pian	1
+基礎冰結晶片	ji chu bing jie jing pian	1
+基礎引燃晶片	ji chu yin ran jing pian	1
+基礎物理晶片	ji chu wu li jing pian	1
+基礎電擊晶片	ji chu dian ji jing pian	1
+塑化鍍劑	su hua du ji	1
 塔納托斯	ta na tuo si	1
+增強型強攻組件	zeng qiang xing qiang gong zu jian	1
+增強型擊破組件	zeng qiang xing ji po zu jian	1
+增強型支援組件	zeng qiang xing zhi yuan zu jian	1
+增強型異常組件	zeng qiang xing yi chang zu jian	1
+增強型防護組件	zeng qiang xing fang hu zu jian	1
+增強型音擎分頻器	zeng qiang xing yin qing fen pin qi	1
+增強型音擎振膜	zeng qiang xing yin qing zhen mo	1
+增強型音擎極片	zeng qiang xing yin qing ji pian	1
+增強型音擎磁體	zeng qiang xing yin qing ci ti	1
+增強型音擎音圈	zeng qiang xing yin qing yin quan	1
+大月卡	da yue ka	1
+大空洞	da kong dong	1
 失衡值	shi heng zhi	1
 奇德	qi de	1
+奔襲獠牙	ben xi liao ya	1
 奧波勒斯小隊	ao bo le si xiao dui	1
+好鬥的阿炮	hao dou de a pao	1
+如影相隨	ru ying xiang sui	1
 妮可	ni ke	1
 威克斯	wei ke si	1
 孟祥龍	meng xiang long	1
@@ -67,41 +160,90 @@ use_preset_vocabulary: true
 安東·伊萬諾夫	an dong yi wan nuo fu	1
 安比	an bi	1
 宴寧	yan ning	1
+家政員	jia zheng yuan	1
 實戰模擬室	shi zhan mo ni shi	1
+專注力	zhuan zhu li	1
+尋寶布	xun bao bu	1
 對空六課	dui kong liu ke	1
 小敢	xiao gan	1
+小月卡	xiao yue ka	1
 小林親弘	xiao lin qin hong	1
 小清水亞美	xiao qing shui ya mei	1
+小身材大危機	xiao shen cai da wei ji	1
 尼尼微	ni ni wei	1
+山大王	shan da wang	1
+山大王	shan dai wang	1
 島村侑	dao cun you	1
+嵌合編譯器	qian he bian yi qi	1
+左輪布	zuo lun bu	1
+左輪轉子	zuo lun zhuan zi	1
+巴特勒	ba te le	1
 希人	xi ren	1
+幻變魔方	huan bian mo fang	1
+廢棄電池	fei qi dian chi	1
 式輿防衛戰	shi yu fang wei zhan	1
+引燃	yin ran	1
 張沛	zhang pei	1
 張若瑜	zhang ruo yu	1
+強攻	qiang gong	1
+強攻組件	qiang gong zu jian	1
+強音熱望	qiang yin re wang	1
 徐翔	xu xiang	1
 德瑪拉	de ma la	1
+德瑪拉電池Ⅱ型	de ma la dian chi er xing	1
+心弦夜響	xin xian ye xiang	1
 怒漢	nu han	1
+怪奇旅伴	guai qi lv ban	1
 悠真	you zhen	1
 惡名狩獵	e ming shou lie	1
 惡毒打手	e du da shou	1
 惡靈	e ling	1
+惡魔布	e mo bu	1
 戍衛獵兵	shu wei lie bing	1
+我們需要你	wo men xu yao ni	1
 扳機	ban ji	1
+折枝劍歌	zhe zhi jian ge	1
+拘縛者	ju fu zhe	1
+招財布	zhao cai bu	1
+捍衛者認證章	han wei zhe ren zheng zhang	1
 捷足巡遊者	jie zu xun you zhe	1
+掌控者認證章	zhang kong zhe ren zheng zhang	1
 掠奪者	lue duo zhe	1
 掠襲獵兵	lue xi lie bing	1
 提爾鋒	ti er feng	1
 提豐挑戰者型	ti feng tiao zhan zhe xing	1
+插頭布	cha tou bu	1
+搖擺爵士	yao bai jue shi	1
+撲擊布	pu ji bu	1
+擊破	ji po	1
+擊破組件	ji po zu jian	1
+支援	zhi yuan	1
+支援組件	zhi yuan zu jian	1
+攻擊力	gong ji li	1
 斯科特哨站	si ke te shao zhan	1
 新井里美	xin jing li mei	1
 新晉獵兵	xin jin lie bing	1
 新艾利都	xin ai li dou	1
+旋鑽機-赤軸	xuan zuan ji chi zhou	1
 日笠陽子	ri li yang zi	1
+星徽引擎	xing hui yin qing	1
+星徽騎士	xing hui qi shi	1
+星徽騎士（特別篇）	xing hui qi shi te bie pian	1
 星期五	xing qi wu	1
 星見雅	xing jian ya	1
+春日融融	chun ri rong rong	1
+時光切片	shi guang qie pian	1
+時流賢者	shi liu xian zhe	1
+晶質鍍劑	jing zhi du ji	1
 暴徒	bao tu	1
+暴擊傷害	bao ji shang hai	1
+暴擊率	bao ji lv	1
 曼德拉	man de la	1
 曾彤	ceng tong	1
+最佳出價	zui jia chu jia	1
+最後一次飛行	zui hou yi ci fei xing	1
+最終之拳	zui zhong zhi quan	1
+月卡	yue ka	1
 月城柳	yue cheng liu	1
 朝井彩加	zhao jing cai jia	1
 未知複合侵蝕體	wei zhi fu he qin shi ti	1
@@ -109,73 +251,165 @@ use_preset_vocabulary: true
 本·比格	ben bi ge	1
 朱鳶	zhu yuan	1
 李嬋妃	li chan fei	1
+杜伊的回信	du yi de hui xin	1
 杜冥鴉	du ming ya	1
 杜拉罕	du la han	1
 杜拉西	du la xi	1
 林勇	lin yong	1
 林景	lin jing	1
+果核布	guo he bu	1
+枯萎脈晶·天青	ku wei mai jing tian qing	1
+枯萎脈晶·玄黃	ku wei mai jing xuan huang	1
+枯萎脈晶·礬紅	ku wei mai jing fan hong	1
 柏妮思	bai ni si	1
 柿原徹也	shi yuan che ye	1
+格列佛探員	ge lie fo tan yuan	1
 格莉絲	ge li si	1
 格莉絲·霍華德	ge li si huo hua de	1
 格萊特	ge lai te	1
+格鬥布	ge dou bu	1
 梁達偉	liang da wei	1
+梅弗勞爾	mei fu lao er	1
+械屍狂潮	xie shi kuang chao	1
+極地重金屬	ji di zhong jin shu	1
+榮光的守護者	rong guang de shou hu zhe	1
+橘福福	ju fu fu	1
+次元槍神	ci yuan qiang shen	1
+正式調查員記錄	zheng shi tiao cha yuan ji lu	1
+正版變身器	zheng ban bian shen qi	1
 死路屠夫	si lu tu fu	1
+殘心青囊	can xin qing nang	1
 比利	bi li	1
 比格	bi ge	1
+比格氣缸	bi ge qi gang	1
+氣壓布	qi ya bu	1
 水野朔	shui ye shuo	1
+永不謝幕	yong bu xie mu	1
 沐霏	mu fei	1
+河豚電音	he tun dian yin	1
 法厄同	fa e tong	1
+法厄同之歌	fa e tong zhi ge	1
 法厄同紀事	fa e tong ji shi	1
 法布提	fa bu ti	1
 波可娜	bo ke na	1
+波特山	bo te shan	1
 泰拉斯奎禍車	tai la si kui huo che	1
 洛威爾	luo wei er	1
+活態驅動	huo tai qu dong	1
 派派	pai pai	1
 派派·韋爾	pai pai wei er	1
+消失的電梯	xiao shi de dian ti	1
+淚眼布	lei yan bu	1
+淬鋒鉗刺	cui feng qian ci	1
+深海訪客	shen hai fang ke	1
+混沌爵士	hun dun jue shi	1
+混沌重金屬	hun dun zhong jin shu	1
 淺羽悠真	qian yu you zhen	1
 測試機	ce shi ji	1
+演武許可	yan wu xu ke	1
 漢斯	han si	1
 潘丹妮	pan dan ni	1
+潘引壺	pan yin hu	1
+激素朋克	ji su peng ke	1
+濃縮型冷卻液	nong suo xing leng que ye	1
 濱田賢二	bin tian xian er	1
 瀑湯谷錦鯉	pu tang gu jin li	1
+灼心搖壺	zhuo xin yao hu	1
+炎獄重金屬	yan yu zhong jin shu	1
+無限玩家	wu xian wan jia	1
+焰心桂冠	yan xin gui guan	1
+燃獄齒輪	ran yu chi lun	1
+營業額	ying ye e	1
+物理	wu li	1
+特化以太晶片	te hua yi tai jing pian	1
+特化冰結晶片	te hua bing jie jing pian	1
+特化型強攻組件	te hua xing qiang gong zu jian	1
+特化型擊破組件	te hua xing ji po zu jian	1
+特化型支援組件	te hua xing zhi yuan zu jian	1
+特化型異常組件	te hua xing yi chang zu jian	1
+特化型防護組件	te hua xing fang hu zu jian	1
+特化引燃晶片	te hua yin ran jing pian	1
+特化物理晶片	te hua wu li jing pian	1
+特化電擊晶片	te hua dian ji jing pian	1
 特殊	te shu	1
+犧牲潔純	xi sheng jie chun	1
+犬犬兌換券	quan quan dui huan quan	1
 狂亂暴徒	kuang luan bao tu	1
+狂信之塑	kuang xin zhi su	1
 狡兔屋	jiao tu wu	1
+猩紅引擎	xing hong yin qing	1
+獅耶	shi ye	1
+獠牙重金屬	liao ya zhong jin shu	1
+玉壺青冰	yu hu qing bing	1
 王宇航	wang yu hang	1
+玲	ling	1
+玲瓏妝匣	ling long zhuang xia	1
 珂蕾妲	ke lei da	1
 珂蕾妲·貝洛伯格	ke lei da bei luo bo ge	1
+異常	yi chang	1
+異常精通	yi chang jing tong	1
+異常組件	yi chang zu jian	1
 白石晴香	bai shi qing xiang	1
 白祇重工	bai qi zhong gong	1
 皛四白	xiao si bai	1
 盛怒惡霸	sheng nu e ba	1
+盜洞奇兵	dao dong qi bing	1
+真相不止一個	zhen xiang bu zhi yi ge	1
 眼魔引擎	yan mo yin qing	1
 石見舞菜香	shi jian wu cai xiang	1
+破陣者認證章	po zhen zhe ren zheng zhang	1
+硫磺石	liu huang shi	1
+磁力布	ci li bu	1
 神尾晉一郎	shen wei jin yi lang	1
 福山潤	fu shan run	1
+福虓爐爐	fu xiao lu lu	1
 秦紫翼	qin zi yi	1
 種崎敦美	zhong qi dun mei	1
 穆雪婷	mu xue ting	1
 空洞	kong dong	1
+空洞漫遊指南	kong dong man you zhi nan	1
+空洞茶會	kong dong cha hui	1
+穿透率	chuan tou lv	1
+競釣積分	jing diao ji fen	1
+第一杯土	di yi bei tu	1
 簡	jian	1
 簡杜	jian du	1
 米哈遊	mi ha you	1
+紅豆包代幣	hong dou bao dai bi	1
+紙殼布	zhi ke bu	1
+紙袋布	zhi dai bu	1
+索魂影眸	suo hun ying mou	1
+終幕舞鞋	zhong mu wu xie	1
 絕區零	jue qu ling	1
+統御者認證章	tong yu zhe ren zheng zhang	1
+經營心得	jing ying xin de	1
 維多利亞家政	wei duo li ya jia zheng	1
+維序者-特化型	wei xu zhe te hua xing	1
 縱火犯	zong huo fan	1
 繩匠	sheng jiang	1
 繩網	sheng wang	1
+繩網信用	sheng wang xin yong	1
+羅賓	luo bin	1
 耀嘉音	yao jia yin	1
+聚寶箱	ju bao xiang	1
+能量循環液	neng liang xun huan ye	1
+腥風之握	xing feng zhi wo	1
+自由藍調	zi you lan diao	1
+艾米莉安	ai mi li an	1
 艾蓮	ai lian	1
 艾蓮·喬	ai lian qiao	1
+芬芳侵染	fen fang qin ran	1
 花玲	hua ling	1
 芹澤優	qin ze you	1
 若山詩音	ruo shan shi yin	1
+莎拉	sha la	1
 莎芭絲緹安	sha ba si ti an	1
 菊花花	ju hua hua	1
 菲林	fei lin	1
+菲林底片	fei lin di pian	1
 萊卡恩	lai ka en	1
 萊特	lai te	1
+葉釋淵	ye shi yuan	1
 葛子瑞	ge zi rui	1
 蒙特夫	meng te fu	1
 蒼角	cang jiao	1
@@ -185,57 +419,169 @@ use_preset_vocabulary: true
 薩提爾	sa ti er	1
 藤井雪代	teng jing xue dai	1
 藤原夏海	teng yuan xia hai	1
+蘭的回信	lan de hui xin	1
+虛無	xu wu	1
 蛇對蛇	she dui she	1
+蛇蛇兌換券	she she dui huan quan	1
+蛋糕「特別定製款」	dan gao te bie ding zhi kuan	1
+行動歷程	xing dong li cheng	1
+街頭巨星	jie tou ju xing	1
 衛士	wei shi	1
+衛非地	wei fei di	1
+衝擊力	chong ji li	1
 被侵蝕者	bei qin shi zhe	1
+裁紙刀	cai zhi dao	1
+補給憑證	bu ji ping zheng	1
 裝甲哈提	zhuang jia ha ti	1
+複合式音擎分頻器	fu he shi yin qing fen pin qi	1
+複合式音擎振膜	fu he shi yin qing zhen mo	1
+複合式音擎極片	fu he shi yin qing ji pian	1
+複合式音擎磁體	fu he shi yin qing ci ti	1
+複合式音擎音圈	fu he shi yin qing yin quan	1
 襲擊者	xi ji zhe	1
+見習調查員記錄	jian xi tiao cha yuan ji lu	1
+觸電唇彩	chu dian chun cai	1
+記憶碎片	ji yi sui pian	1
+調律校音器	tiao lv xiao yin qi	1
+調查業績	tiao cha ye ji	1
+調查點數	tiao cha dian shu	1
+變頻音擎電源	bian pin yin qing dian yuan	1
 貓又	mao you	1
 貓宮又奈	mao gong you nai	1
 貓的失物	mao de shi wu	1
 貝洛伯格	bei luo bo ge	1
 貪婪射手	tan lan she shou	1
+貴重骨核	gui zhong gu he	1
+費雷尼	fei lei ni	1
+資深調查員記錄	zi shen tiao cha yuan ji lu	1
 賽斯	sai si	1
 賽斯·洛威爾	sai si luo wei er	1
+赤紅莫庫斯	chi hong mo ku si	1
+軍用鍍劑	jun yong du ji	1
 輕裝獵兵	qing zhuang lie bing	1
+轟鳴座駕	hong ming zuo jia	1
+逍遙遊球	xiao yao you qiu	1
+通用組件	tong yong zu jian	1
+速度與親情	su du yu qin qing	1
 連攜技	lian xie ji	1
+進階以太晶片	jin jie yi tai jing pian	1
+進階冰結晶片	jin jie bing jie jing pian	1
+進階引燃晶片	jin jie yin ran jing pian	1
+進階物理晶片	jin jie wu li jing pian	1
+進階電擊晶片	jin jie dian ji jing pian	1
 遊魂	you hun	1
 遠藤綾	yuan teng ling	1
+邦布	bang bu	1
+邦布券	bang bu quan	1
+邦布知道！	bang bu zhi dao	1
+邦布算法模塊	bang bu suan fa mo kuai	1
+邦布系統控制項	bang bu xi tong kong zhi xiang	1
+邦布軟體補丁	bang bu ruan ti bu ding	1
 重裝侵襲者	chong zhuang qin xi zhe	1
 重裝炮手	chong zhuang pao shou	1
 鈴	ling	1
+鉛黃都市	qian huang du shi	1
+鋼鐵肉墊	gang tie rou dian	1
+鎏金花信	liu jin hua xin	1
 鐵道地精	tie dao di jing	1
 閒踏梧桐	xian ta wu tong	1
 阮從青	ruan cong qing	1
+防暴者Ⅵ型	fang bao zhe liu xing	1
+防禦力	fang yu li	1
+防護	fang hu	1
+防護組件	fang hu zu jian	1
 阿佩卡	a pei ka	1
 阿保麻莉亞	a bao ma li ya	1
+阿全	a quan	1
 阿勞恩	a lao en	1
+阿崔巡查	a cui xun cha	1
+阿瓦魯斯	a wa lu si	1
 阿部敦	a bu dun	1
+降噪處理母盤	jiang zao chu li mu pan	1
 陳婷婷	chen ting ting	1
 陳潤秋	chen run qiu	1
 陳陽	chen yang	1
 陳雨	chen yu	1
+雙生泣星	shuang sheng qi xing	1
 離子體瑟托迪亞	li zi ti se tuo di ya	1
 離子體納塞勒亞	li zi ti na sai le ya	1
+雨林饕客	yu lin tao ke	1
 雨果	yu guo	1
+雲巋如我	yun kui ru wo	1
+雲巋山	yun gui shan	1
 零異事件	ling yi shi jian	1
 零號·安比	ling hao an bi	1
+零號業績	ling hao ye ji	1
 零號空洞	ling hao kong dong	1
+雷暴重金屬	lei bao zhong jin shu	1
 雷蛛	lei zhu	1
+電擊	dian ji	1
+電擊布	dian ji bu	1
+電波漫步	dian bo man bu	1
+電玩節兌換券	dian wan jie dui huan quan	1
+電量	dian liang	1
+震元奇樞	zhen yuan qi shu	1
+震星迪斯科	zhen xing di si ke	1
 霍普利泰	huo pu li tai	1
 霍華德	huo hua de	1
+霰落星殿	xian luo xing dian	1
 露西	lu xi	1
 露西亞娜	lu xi ya na	1
+靈魂搖滾	ling hun yao gun	1
+青溟籠舍	qing ming long she	1
 青衣	qing yi	1
+靜聽嘉音	jing ting jia yin	1
 韋爾	wei er	1
 音擎	yin qing	1
+音擎分頻器	yin qing fen pin qi	1
+音擎振膜	yin qing zhen mo	1
+音擎極片	yin qing ji pian	1
+音擎殘芯	yin qing can xin	1
+音擎磁體	yin qing ci ti	1
+音擎能源模塊	yin qing neng yuan mo kuai	1
+音擎蓄電池	yin qing xu dian chi	1
+音擎音圈	yin qing yin quan	1
+音質增強母盤	yin zhi zeng qiang mu pan	1
+飈速布	biao su bu	1
+飛靶布	fei ba bu	1
+飛鳥星夢	fei niao xing meng	1
 馮·萊卡恩	feng lai ka en	1
+騎士布	qi shi bu	1
+驅動盤	qu dong pan	1
+骸獸之城	hai shou zhi cheng	1
 骸蜂	hai feng	1
+高保真母盤	gao bao zhen mu pan	1
 高梨謙吾	gao li qian wu	1
 高橋廣樹	gao qiao guang shu	1
 高橋花林	gao qiao hua lin	1
+高維數據：凶刑訃告	gao wei shu ju xiong xing fu gao	1
+高維數據：初生杜拉罕	gao wei shu ju chu sheng du la han	1
+高維數據：拳墜如隕	gao wei shu ju quan zhui ru yun	1
+高維數據：提豐·重擊者型	gao wei shu ju ti feng zhong ji zhe xing	1
+高維數據：星期五	gao wei shu ju xing qi wu	1
+高維數據：格萊特	gao wei shu ju ge lai te	1
+高維數據：殷紅震懾	gao wei shu ju yin hong zhen she	1
+高維數據：毀蕩突進	gao wei shu ju hui dang tu jin	1
+高維數據：游鱗雷動	gao wei shu ju you lin lei dong	1
+高維數據：漢斯	gao wei shu ju han si	1
+高維數據：潛襲魅影	gao wei shu ju qian xi mei ying	1
+高維數據：索命切割	gao wei shu ju suo ming qie ge	1
+高維數據：追襲骸影	gao wei shu ju zhui xi hai ying	1
+高維數據：鋼鐵惡意	gao wei shu ju gang tie e yi	1
+高階強攻認證章	gao jie qiang gong ren zheng zhang	1
+高階擊破認證章	gao jie ji po ren zheng zhang	1
+高階支援認證章	gao jie zhi yuan ren zheng zhang	1
+高階異常認證章	gao jie yi chang ren zheng zhang	1
+高階防護認證章	gao jie fang hu ren zheng zhang	1
+鬥技場代幣	dou ji chang dai bi	1
 魁梧打手	kui wu da shou	1
 魁梧施虐者	kui wu shi nue zhe	1
+鯊牙布	sha ya bu	1
 麗娜	li na	1
+麗都	li du	1
+麗都導覽	li du dao lan	1
+黃昏廣場	huang hun guang chang	1
 黃金邦布	huang jin bang bu	1
+黑紙童話	hei zhi tong hua	1
+黑色唱機	hei se chang ji	1
 黑雁工地舊址	hei yan gong di jiu zhi	1
