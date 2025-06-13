@@ -2,49 +2,47 @@
 # encoding: utf-8
 ---
 name: bangdream
-version: "2025-06-06"
+version: "2025-06-12"
 sort: by_weight
 ...
 Afterglow	afterglow	1
-Alea jacta est	alea jacta est	1
+Alea jacta est	aleajactaest	1
 Alter Ego	alter ego	1
 Amoris	amoris	1
 Angles	angles	1
-Ave Mujica	avemujica	1
+Ave Mujica	ave mujica	1
 Ayasa	ayasa	1
-BanG Dream!	ba n do ri	1
+BanG Dream!	bandori	1
 BanG Dream!	bang dream	1
-BanG Dream! Ave Mujica	ba n do ri avemujica	1
-BanG Dream! Ave Mujica	bang dream avemujica	1
-BanG Dream! Girls Band Party!	ba n do ri ga ru pa	1
+BanG Dream! Ave Mujica	bandori ave mujica	1
+BanG Dream! Ave Mujica	bang dream ave mujica	1
+BanG Dream! Girls Band Party!	bandori garupa	1
 BanG Dream! Girls Band Party!	bang dream girls band party	1
-BanG Dream! It's MyGO!!!!!	ba n do ri itsmygo	1
-BanG Dream! It's MyGO!!!!!	bang dream itsmygo	1
+BanG Dream! It's MyGO!!!!!	bandori its mygo	1
+BanG Dream! It's MyGO!!!!!	bang dream its mygo	1
 Black Birthday	black birthday	1
 Choir ‘S’ Choir	choirschoir	1
-Chu²	chu	1
-Chu²	chu chu	1
+Chu²	chuchu	1
 Completeness	completeness	1
 Craft Egg	craft egg	1
-Crucifix X	crucifix x	1
+Crucifix X	crucifix	1
 CRYCHIC	crychic	1
-Diggy-MO'	diggy mo	1
+Diggy-MO'	diggymo	1
 DIVINE	divine	1
 Doloris	doloris	1
 ELEMENTS	elements	1
 Ether	ether	1
 Georgette Me, Georgette You	georgette	1
-Georgette Me, Georgette You	georgette me georgette you	1
-Girls Band Party!	ga ru pa	1
+Girls Band Party!	garupa	1
 Girls Band Party!	girls band party	1
 Hello, Happy World!	hello happy world	1
-Imprisoned XII	imprisoned xii	1
-It's MyGO!!!!!	itsmygo	1
+Imprisoned XII	imprisoned XII	1
+It's MyGO!!!!!	its mygo	1
 KiLLKiSS	killkiss	1
 Layer	layer	1
 live house	live house	1
 Lock	lock	1
-Mas?uerade Rhapsody Re?uest	masquerade rhapsody request	1
+Mas?uerade Rhapsody Re?uest	masquerade	1
 Masking	masking	1
 Memento Mori	memento mori	1
 mika	mika	1
@@ -58,44 +56,27 @@ Octagram Dance	octagram dance	1
 Pareo	pareo	1
 Pastel*Palettes	pastel palettes	1
 Poppin'Party	poppin party	1
-RAISE A SUILEN	raise a suilen	1
-RAS	ras	1
+RAISE A SUILEN	ras	1
 Raychell	raychell	1
 Roselia	roselia	1
 Soyorin	soyorin	1
-Symbol I : △	symbol i	1
-Symbol II: Air	symbol ii	1
-Symbol III : ▽	symbol iii	1
-Symbol IV: Earth	symbol iv	1
+Symbol I : △	symbol I	1
+Symbol II: Air	symbol II	1
+Symbol III : ▽	symbol III	1
+Symbol IV: Earth	symbol IV	1
 Timoris	timoris	1
-TOKYO MX	tokyo mx	1
+TOKYO MX	tokyomx	1
 Tomorin	tomorin	1
 Utopia	utopia	1
-あんなの嘘だよ	a n na no u so da yo	1
-お友達なの	o to mo da chi na no	1
-これ、いらないから	ko re i ra na i ka ra	1
-こんバンドリ	ko n ba n do ri	1
-ずっと裏切ってたのかよ	zu tto u ra gi tte ta no ka yo	1
-そうだよ	so u da yo	1
-そうですか	so u de su ka	1
-そっか	so kka	1
-タイトル未定	ta i to ru mi te i	1
-タイトル未定	title mi te i	1
-タイトル未定	title wei ding	1
-つまんねー女の子	tsu ma n ne o n na no ko	1
-なるほど	na ru ho do	1
-なんで『春日影』やったの	na n de ha ru hi ka ge ya tta no	1
-のんたん	no n ta n	1
-のんのん	no n no n	1
-ひなちゃん	hi na cha n	1
-ふたつの月⠀~Deep Into The Forest~	fu ta tsu no tsu ki	1
-ふたつの月⠀~Deep Into The Forest~	fu ta tsu no tsu ki deep into the forest	1
-ブロックしてやる	bu ro kku shi te ya ru	1
-みかん	mi ka n	1
-みかんちゃん	mi ka n cha n	1
-ゆづむん	yu zu mu n	1
-ようちゃん	yo u cha n	1
-りこち	ri ko chi	1
+のんたん	nontan	1
+のんのん	nonnon	1
+ひなちゃん	hinachan	1
+ふたつの月⠀~Deep Into The Forest~	futatsunotsuki	1
+みかん	mikan	1
+みかんちゃん	mikanchan	1
+ゆづむん	yuzumun	1
+ようちゃん	youchan	1
+りこち	rikochi	1
 一之瀨	yi zhi lai	1
 一個也沒有	yi ge ye mei you	1
 一個人說出口的話	yi ge ren shuo chu kou de hua	1
@@ -203,7 +184,6 @@ Utopia	utopia	1
 佐佐木李子	zuo zuo mu li zi	1
 佐倉綾音	zuo cang ling yin	1
 佐藤增姬	zuo teng zeng ji	1
-何でもするから	na n de mo su ru ka ra	1
 你不是不需要我了嗎	ni bu shi bu xu yao wo le ma	1
 你也願意陪在我身邊嗎	ni ye yuan yi pei zai wo shen bian ma	1
 你們覺得如果是找我我就會願意回答嗎	ni men jue de ru guo shi zhao wo wo jiu hui yuan yi hui da ma	1
@@ -229,8 +209,8 @@ Utopia	utopia	1
 八幡海鈴	ba fan hai ling	1
 八潮瑠唯	ba chao liu wei	1
 八芒星ダンス	ba mang xing dance	1
-八芒星ダンス	ha chi bo u se i da n su	1
-八芒星ダンス	ha chi bo u se i dance	1
+八芒星ダンス	hachibousei dance	1
+八芒星ダンス	hachibousei dansu	1
 八芒星ダンス	octagram dance	1
 再一次	zai yi ci	1
 再多加把勁吧	zai duo jia ba jin ba	1
@@ -240,8 +220,7 @@ Utopia	utopia	1
 冰川日菜	bing chuan ri cai	1
 冰川紗夜	bing chuan sha ye	1
 処救生	chu jiu sheng	1
-処救生	ko kyu	1
-処救生	ko kyu u	1
+処救生	kokyuu	1
 分一半給別人的話，熱量也會減半喔	fen yi ban gei bie ren de hua re liang ye hui jian ban o	1
 初華	chu hua	1
 初華就只會騙人	chu hua jiu zhi hui pian ren	1
@@ -292,7 +271,7 @@ Utopia	utopia	1
 各方面都會變得不正常喔	ge fang mian dou hui bian de bu zheng chang o	1
 吉田有里	ji tian you li	1
 名無声	ming wu sheng	1
-名無声	na mo na ki	1
+名無声	namonaki	1
 吵死了!	chao si le	1
 告訴我就對了	gao su wo jiu dui le	1
 味道純香，我很喜歡	wei dao chun xiang wo hen xi huan	1
@@ -310,7 +289,7 @@ Utopia	utopia	1
 嘴巴裡面都還刺刺的	zui ba li mian dou hai ci ci de	1
 回去	hui qu	1
 回層浮	hui ceng fu	1
-回層浮	ka i so u	1
+回層浮	kaisou	1
 因為CRYCHIC已經毀了	yin wei crychic yi jing hui le	1
 因為再也沒有這種機會了嘛	yin wei zai ye mei you zhe zhong ji hui le ma	1
 因為好像快壞掉了	yin wei hao xiang kuai huai diao le	1
@@ -329,13 +308,13 @@ Utopia	utopia	1
 在那裡	zai na li	1
 坦白說我都聽得一頭霧水	tan bai shuo wo dou ting de yi tou wu shui	1
 執著於過去	zhi zhuo yu guo qu	1
-壱雫空	hi to shi zu ku	1
+壱雫空	hitoshizuku	1
 壱雫空	yi na kong	1
 壱雫空	yi xia kong	1
 夏芽	xia ya	1
 多麼可笑啊	duo me ke xiao a	1
 夜隠染	ye yin ran	1
-夜隠染	yo ka ze	1
+夜隠染	yokaze	1
 夠了夠了夠了	gou le gou le gou le	1
 夢嗎	meng ma	1
 大和麻彌	da he ma mi	1
@@ -351,7 +330,7 @@ Utopia	utopia	1
 天啊 真的好可愛喔	tian a zhen de hao ke ai o	1
 天啊，大發現欸	tian a da bo xian ei	1
 天球のMúsica	musica caelestis	1
-天球のMúsica	so ra no musica	1
+天球のMúsica	sorano musica	1
 天球のMúsica	tian qiu de musica	1
 天球のMúsica	tian qiu zhi musica	1
 天音	tian yin	1
@@ -491,7 +470,7 @@ Utopia	utopia	1
 妳還要跟著我走多久	ni hai yao gen zhe wo zou duo jiu	1
 妳都只會講些討厭的事情	ni dou zhi hui jiang xie tao yan de shi qing	1
 孤壊牢	gu huai lao	1
-孤壊牢	ko ko ro	1
+孤壊牢	kokoro	1
 它沒有結束	ta mei you ji shu	1
 宇田川亞子	yu tian chuan ya zi	1
 宇田川巴	yu tian chuan ba	1
@@ -773,7 +752,7 @@ Utopia	utopia	1
 拜託妳也好好看著我	bai tuo ni ye hao hao kan zhe wo	1
 拜託把我的話聽進去啊	bai tuo ba wo de hua ting jin qu a	1
 拿到門票了，真是奇蹟	na dao men piao le zhen shi qi ji	1
-掌心正銘	sho u shi n sho u me i	1
+掌心正銘	shoushinshoumei	1
 掌心正銘	zhang xin zheng ming	1
 掛斷了	gua duan le	1
 掰掰	bai bai	1
@@ -791,7 +770,7 @@ Utopia	utopia	1
 早知道	zao zhi dao	1
 明坂聰美	ming ban cong mei	1
 春日影	chun ri ying	1
-春日影	ha ru hi ka ge	1
+春日影	haruhikage	1
 昨天也一整夜都沒睡	zuo tian ye yi zheng ye dou mei shui	1
 昨天還很喜歡，今天就膩了	zuo tian hai hen xi huan jin tian jiu ni le	1
 是一輩子喔，一輩子	shi yi bei zi o yi bei zi	1
@@ -833,7 +812,7 @@ Utopia	utopia	1
 柿本廣大	shi ben guang da	1
 柿本監督	shi ben jian du	1
 栞	kan	1
-栞	shi o ri	1
+栞	shiori	1
 根本就沒有理由反對吧	gen ben jiu mei you li you fan dui ba	1
 桐谷透子	tong gu tou zi	1
 梅津	mei jin	1
@@ -847,14 +826,14 @@ Utopia	utopia	1
 樂奈	le nai	1
 機會稍縱即逝	ji hui shao zong ji shi	1
 櫻川惠	ying chuan hui	1
-歌いましょう鳴らしましょう	u ta i ma sho u na ra shi ma sho u	1
+歌いましょう鳴らしましょう	utaimasho	1
 武士道	wu shi dao	1
 歩拾道	bu shi dao	1
 歩拾道	speed	1
 死了	si le	1
 死透了	si tou le	1
 残痕字	can hen zi	1
-残痕字	za ko shi	1
+残痕字	zakoshi	1
 毀掉小睦和Ave Mujica的人是小祥	hui diao xiao mu he ave mujica de ren shi xiao xiang	1
 每次想著想著就會感到很厭世	mei ci xiang zhe xiang zhe jiu hui gan dao hen yan shi	1
 毫無品味	hao wu pin wei	1
@@ -884,7 +863,7 @@ Utopia	utopia	1
 湊友希那	cou you xi na	1
 滿腦子都只想到自己呢	man nao zi dou zhi xiang dao zi ji ne	1
 潜在表明	qian zai biao ming	1
-潜在表明	se n za i hyo u me i	1
+潜在表明	senzaihyoumei	1
 瀨田薰	lai tian xun	1
 為了這目標，我什麼都有辦法做	wei le zhe mu biao wo shen me dou you ban fa zuo	1
 為什麼 為什麼要說這種壞心眼的話	wei shen me wei shen me yao shuo zhe zhong huai xin yan de hua	1
@@ -902,13 +881,13 @@ Utopia	utopia	1
 為什麼都不回答我啊	wei shen me dou bu hui da wo a	1
 為什麼都不講話	wei shen me dou bu jiang hua	1
 焚音打	fen yin da	1
-焚音打	ta ne bi	1
+焚音打	tanebi	1
 無人島	wu ren dao	1
 無從捉摸	wu cong zhuo mo	1
 無法回頭	wu fa hui tou	1
 無趣	wu qu	1
 無趣的女孩子	wu qu de nv hai zi	1
-無路矢	no ro shi	1
+無路矢	noroshi	1
 無路矢	wu lu shi	1
 燈	deng	1
 爽世	shuang shi	1
@@ -957,24 +936,23 @@ Utopia	utopia	1
 真的毫無品味	zhen de hao wu pin wei	1
 眼中都只有自己想看見的東西吧	yan zhong dou zhi you zi ji xiang kan jian de dong xi ba	1
 睦	mu	1
-砂寸奏	sa su ra i	1
+砂寸奏	sasurai	1
 砂寸奏	sha cun zou	1
 碧天伴走	bi tian ban zou	1
-碧天伴走	he ki te n ba n so u	1
+碧天伴走	hekitenbansou	1
 祐天寺	you tian si	1
 祐天寺若麥	you tian si ruo mai	1
 祝你幸福	zhu ni xing fu	1
 祝夜晚愉快	zhu ye wan yu kuai	1
 祝妳幸福	zhu ni xing fu	1
 祝妳有個好夢	zhu ni you ge hao meng	1
-神さま、バカ	ka mi sa ma ba ka	1
+神さま、バカ	kamisamabaka	1
 神さま、バカ	memento mori	1
 祥子	xiang zi	1
 祥子，妳回來了嗎	xiang zi ni hui lai le ma	1
 祥子今後就拜託妳了	xiang zi jin hou jiu bai tuo ni le	1
 祥子是個壞孩子啊	xiang zi shi ge huai hai zi a	1
 祥子真的好過分喔	xiang zi zhen de hao guo fen o	1
-私、いらないんでしょ	wa ta shi i ra na i n de sho	1
 秋秋	qiu qiu	1
 秦佐和子	qin zuo he zi	1
 空無一物，只會演戲的人偶	kong wu yi wu zhi hui yan xi de ren ou	1
@@ -992,10 +970,9 @@ Utopia	utopia	1
 米澤茜	mi ze xi	1
 糟糕，這什麼啊	zao gao zhe shen me a	1
 素世	su shi	1
-素晴らしき世界 でも どこにもない場所	su ba ra shi ki se ka i de mo do ko ni mo na i ba sho	1
+素晴らしき世界 でも どこにもない場所	subarashikisekai	1
 素晴らしき世界 でも どこにもない場所	utopia	1
 紡木吏佐	bang mu li zuo	1
-終わらせてあげる	o wa ra se te a ge ru	1
 終於追上妳了	zhong yu zhui shang ni le	1
 結月	jie yue	1
 結月寶	jie yue bao	1
@@ -1019,7 +996,7 @@ Utopia	utopia	1
 聽說妳哭了	ting shuo ni ku le	1
 聽起來好棒	ting qi lai hao bang	1
 聽起來好棒喔	ting qi lai hao bang o	1
-聿日箋秋	i chi ji tsu se n shu	1
+聿日箋秋	ichijitsusenshu	1
 聿日箋秋	yu ri jian qiu	1
 能否占用妳一些時間呢	neng fou zhan yong ni yi xie shi jian ne	1
 能否請妳積極考慮我的提案呢	neng fou qing ni ji ji kao lv wo de ti an ne	1
@@ -1060,7 +1037,7 @@ Utopia	utopia	1
 託妳的福	tuo ni de fu	1
 記得要強調是史上最快喔	ji dei yao qiang tiao shi shi shang zui kuai o	1
 詩超絆	shi chao ban	1
-詩超絆	u ta ko to ba	1
+詩超絆	utakotoba	1
 該走了	gai zou le	1
 認真的嗎	ren zhen de ma	1
 誤會	wu hui	1
@@ -1103,15 +1080,14 @@ Utopia	utopia	1
 超催淚的	chao cui lei de	1
 跟她這樣說，叫她好好睡覺	gen ta zhe yang shuo jiao ta hao hao shui jiao	1
 跡暖空	ji nuan kong	1
-跡暖空	mi chi no ku	1
+跡暖空	michinoku	1
 輪符雨	lun fu yu	1
 輪符雨	refrain	1
-迷子	ma i go	1
+迷子	maigo	1
 迷子	mi zi	1
-迷子でもいい、迷子でも進め	ma i go de mo i i ma i go de mo su su me	1
-迷星叫	ma yo i u ta	1
+迷星叫	mayoiuta	1
 迷星叫	mi xing jiao	1
-迷跡波	me i se ki ha	1
+迷跡波	meisekiha	1
 迷跡波	mi ji bo	1
 迷路日々	melody	1
 迷路日々	mi lu ri ri	1
@@ -1153,7 +1129,7 @@ Utopia	utopia	1
 進藤	jin teng	1
 進藤天音	jin teng tian yin	1
 運氣真好	yun qi zhen hao	1
-過惰幻	a da yu me	1
+過惰幻	adayume	1
 過惰幻	guo duo huan	1
 遠藤	yuan teng	1
 遠藤求	yuan teng qiu	1
@@ -1200,9 +1176,9 @@ Utopia	utopia	1
 青木	qing mu	1
 青木陽菜	qing mu yang cai	1
 青葉摩卡	qing ye mo ka	1
-音一会	o to i chi e	1
+音一会	otoichie	1
 音一会	yin yi hui	1
-顔	ka o	1
+顔	kao	1
 顔	yan	1
 香澄	xiang cheng	1
 騙人	pian ren	1
@@ -1217,6 +1193,6 @@ Utopia	utopia	1
 麻煩幫我買單	ma fan bang wo mai dan	1
 黑澤朋世	hei ze peng shi	1
 黒のバースデイ	black birthday	1
-黒のバースデイ	ku ro no ba su de i	1
-黒のバースデイ	ku ro no birthday	1
+黒のバースデイ	kurono basudei	1
+黒のバースデイ	kurono birthday	1
 鼓子	gu zi	1
